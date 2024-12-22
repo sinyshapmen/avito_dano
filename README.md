@@ -1,3 +1,3 @@
 # avito_dano
 
-Grade for the tour: 84/100
+Grade for the work: 84/100
